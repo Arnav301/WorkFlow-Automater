@@ -1,6 +1,3 @@
-Sample .env :- GEMINI_API_KEY=AIzaSyAwG3_jcnVEnjmERlNAEWetJLv_bVTL_BA
-SECRET_KEY=AlphaOP
-
 # 🚀 UI-Agnostic Intelligent Workflow Automator
 
 A system that demonstrates the ability to automate workflows on any application UI without explicit API integration, by combining Python, Gemini API (LLM), Computer Vision, and React-based monitoring — directly aligned with Emma Robot’s mission.
